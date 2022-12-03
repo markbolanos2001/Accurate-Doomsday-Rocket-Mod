@@ -10,3 +10,5 @@ This is my first mod so there are bound to be issues, mainly with code and also 
 		
 		
 Don't know if there are any conflicts , but would probably conflict with other mods that affect the Doomsday rocket launcher.
+
+Steam version: https://steamcommunity.com/sharedfiles/filedetails/?id=2897004272
