@@ -3,6 +3,7 @@
 	<author>Mark Bolanos</author>
 	<packageId>MarkBolanos.AccurateDoomsdayRocket</packageId>
 	<supportedVersions>
+		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
 	<description>I always thought that the 'Doomsday rocket' was very underwhelming considering its name and description, so i decided to modify it to more accurately depict what i had in mind. 
